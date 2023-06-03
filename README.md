@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @zhangzhimin
+- CEO, Founder of Matazure
 - 👀 I’m interested in AI, Compiler, Mathmatic 
 - 🌱 I’m currently learning compiler optimization
 - 📫 email p3.1415@qq.com wechat: zhangzhimin-tju
